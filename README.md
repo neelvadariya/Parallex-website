@@ -1,2 +1,2 @@
 # Parallex-website
-Sample link- https://parallexneel.netlify.app/#
+Sample link- https://neelvadariya.github.io/Parallex-website/
